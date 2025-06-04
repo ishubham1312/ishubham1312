@@ -2,7 +2,7 @@
 
 🎬 **Cinephile | 🎧 Music Enthusiast | 💻 Developer | 🧠 AI Explorer**
 
-I’m a student and developer who loves mixing creativity with code. Whether it's building smart apps, watching Marvel movies, or composing melodies on the piano, I enjoy bringing imagination to life in all forms.
+I’m a student and developer who loves mixing creativity with code. Whether it's building smart apps, watching movies, or composing melodies , I enjoy bringing imagination to life in all forms.
 
 ---
 
