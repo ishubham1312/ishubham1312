@@ -12,15 +12,6 @@ Vibe Coder
 
 ---
 
-## 🔥 Highlight Projects
-
-- 🎞️ [**BingeBoard**](https://github.com/ishubham1312/bingeboard) – Track your movie & TV show cravings with a beautiful watchlist app  
-- 🤖 **FuzionAI** – One app to chat with ChatGPT, Gemini, Claude & Grok in a single interface (session-aware, WebView-based)  
-- 📅 **Attendance Tracker App** – Track daily classes, goals, and analytics with Google Calendar integration  
-- 🌳 **Sky of Thoughts Website** – Add emotional notes as star to a vast sky of user-generated memories  
-
----
-
 ## 🎵 When I'm Not Coding...
 
 - I'm composing music on the piano or guitar 🎹🎸  
