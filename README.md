@@ -113,13 +113,20 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=ishubham1312&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Shubham's GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishubham1312&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <a href="https://github.com/ishubham1312">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishubham1312&show_icons=true&theme=tokyonight&hide_border=false" alt="Shubham's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ishubham1312">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishubham1312&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ishubham1312&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <a href="https://github.com/ishubham1312">
+    <img height="180" src="https://streak-stats.demolab.com/?user=ishubham1312&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 ---
 
